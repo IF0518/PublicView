@@ -1,0 +1,25 @@
+{
+"name":"PublicV",
+"short-name":"PV",
+"description":"This is public view system for conducting referendum,public paticipation via internet",
+"background":"#ffecaf",
+"theme-color":"#dca",
+"display":"standalone",
+"orientation":"portrait",
+"lang":"en-us",
+"dir":"ltr",
+"start_url":"http://192.168.17.238/publicView/login.php",
+"scope":"/publicView/",
+"icon": [
+          {
+             "src":"iconif.png",
+             "type":"image/png",
+             "size":"48,48"
+           },
+           {
+             "src":"spinner.gif",
+             "type":"image/gif",
+             "size":"48,48"
+            }
+         ]
+}
